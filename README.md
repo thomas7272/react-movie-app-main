@@ -20,6 +20,3 @@ Open [http://localhost:5173/](http://localhost:5173) to view it in your browser.
 
 ## Login & Register
 ![image4](https://github.com/mvaibhav131/react-movie-app/assets/98808183/cb2a7322-15e3-4347-a75e-9072c8f64614)
-
-## Footer
-![image5](https://github.com/mvaibhav131/react-movie-app/assets/98808183/45eed4cd-baeb-477f-856c-2be620589fa3)
